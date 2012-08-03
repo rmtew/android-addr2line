@@ -8,3 +8,8 @@ Wrapper around Android's addr2line to make your life easier
 3. chmod +x the script
 
 Now whenever you have a native stack trace, just run it, paste the stack trace, hit CTRL-D, and you're done.
+
+Modifications
+-------------
+
+This runs on Windows now, don't bother with that wacky chmod stuff.  Just change the paths.
